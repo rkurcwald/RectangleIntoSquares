@@ -1,0 +1,13 @@
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\bin\Debug\netcoreapp3.1\RectangleIntoSquares.exe
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\bin\Debug\netcoreapp3.1\RectangleIntoSquares.deps.json
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\bin\Debug\netcoreapp3.1\RectangleIntoSquares.runtimeconfig.json
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\bin\Debug\netcoreapp3.1\RectangleIntoSquares.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\bin\Debug\netcoreapp3.1\RectangleIntoSquares.dll
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\bin\Debug\netcoreapp3.1\RectangleIntoSquares.pdb
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.AssemblyInfo.cs
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.dll
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.pdb
+C:\Users\Robert\source\repos\RectangleIntoSquares\RectangleIntoSquares\obj\Debug\netcoreapp3.1\RectangleIntoSquares.genruntimeconfig.cache
